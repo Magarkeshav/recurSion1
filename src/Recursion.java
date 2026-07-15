@@ -66,4 +66,7 @@ public class Recursion {
         return lsraeh(arr,targat,index+1,list);
 
     }
+
+
 }
+
