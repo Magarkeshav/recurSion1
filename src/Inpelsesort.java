@@ -17,7 +17,7 @@ public class Inpelsesort {
 
         int mid = (s+e)/ 2 ;
         sort(arr,s,mid);
-        sort(arr,mid,arr.length);
+        sort(arr,mid,e);
 
          marge(arr,s, mid,e);
 
